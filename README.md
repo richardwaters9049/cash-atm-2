@@ -34,12 +34,8 @@ This is a simple cash machine application.
 The user is asked to enter their card number and pin. 
 If their information matches then they can check their balance, as well as depositing and withdrawing. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 C# 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -53,15 +49,15 @@ https://dotnet.microsoft.com/download
 
 ### Installation
 
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/richardwaters9049/cash-atm-2.git
    ```
-3. Run code
+2. Run code
    ```sh
    dotnet run
    ```
-4. Build code
+3. Build code
    ```sh
   dotnet build
    ```
