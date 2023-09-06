@@ -59,7 +59,7 @@ https://dotnet.microsoft.com/download
    ```
 3. Build code
    ```sh
-  dotnet build
+   dotnet build
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
