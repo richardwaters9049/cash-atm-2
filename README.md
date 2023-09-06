@@ -47,17 +47,20 @@ Here is how to run the application on visual studio code.
 Make sure your machine has the latest .dotnet
 https://dotnet.microsoft.com/download
 
+Check your dotnet verion in terminal using: 
+dotnet --version
+
 ### Installation
 
 1. Clone the repo
    ```sh
    git clone https://github.com/richardwaters9049/cash-atm-2.git
    ```
-2. Run code
+2. Run code in terminal
    ```sh
    dotnet run
    ```
-3. Build code
+3. Build code in terminal
    ```sh
    dotnet build
    ```
