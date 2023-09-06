@@ -1,0 +1,14 @@
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/bin/Debug/net7.0/cash-atm-2
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/bin/Debug/net7.0/cash-atm-2.deps.json
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/bin/Debug/net7.0/cash-atm-2.runtimeconfig.json
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/bin/Debug/net7.0/cash-atm-2.dll
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/bin/Debug/net7.0/cash-atm-2.pdb
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/obj/Debug/net7.0/cash-atm-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/obj/Debug/net7.0/cash-atm-2.AssemblyInfoInputs.cache
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/obj/Debug/net7.0/cash-atm-2.AssemblyInfo.cs
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/obj/Debug/net7.0/cash-atm-2.csproj.CoreCompileInputs.cache
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/obj/Debug/net7.0/cash-atm-2.dll
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/obj/Debug/net7.0/refint/cash-atm-2.dll
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/obj/Debug/net7.0/cash-atm-2.pdb
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/obj/Debug/net7.0/cash-atm-2.genruntimeconfig.cache
+/Users/richyrose/Documents/GitHub/C#/cash-atm-2/obj/Debug/net7.0/ref/cash-atm-2.dll
