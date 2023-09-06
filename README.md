@@ -33,6 +33,7 @@
 This is a simple cash machine application. 
 The user is asked to enter their card number and pin. 
 If their information matches then they can check their balance, as well as depositing and withdrawing. 
+The list of users can be found starting on line 123.
 
 ### Built With
 C# 
